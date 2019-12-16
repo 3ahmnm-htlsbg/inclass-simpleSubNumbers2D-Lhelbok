@@ -1,28 +1,34 @@
-# Unity2019114f1-2D-Template
+# inclass-simpleSubNumbers2D-Lhelbok
 
 ### Project description: 
-Introduction/Project summary 
+Exercise for simple substraction operation
 
 ### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
+-Windows 10
+-Visual Studio 2019
+-Unity 2019.1.14f1.1
 
 ### Target platform: 
-WebGL, Mobile, VR Device incl. reference resolution 
+WebGL 1920x720
 
 ### Visuals: 
-Screenshots (concept and experience), Video
+none
 
 ### Necessary setup/execution steps: 
-Installation process, e.g. step by step instructions that I can run the project after cloning it
+nothing
 
-### Third party material: 
-(if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
+### Third party material:
+ 
+gitHub Template: https://github.com/3ahmnm-htlsbg/Unity2019114f1-2D-Template
 
 ### Project state: 
-incl. progress in percent
+50%
 
 ### Limitations: 
+none
 
 ### Lessons Learned: 
+- How to create a working GUI
 
-Copyright by you :)
+
+Copyright by Lhelbok
