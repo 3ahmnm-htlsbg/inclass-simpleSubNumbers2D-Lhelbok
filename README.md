@@ -12,7 +12,19 @@ Exercise for simple substraction operation
 WebGL 1920x720
 
 ### Visuals: 
-none
+
+#### Executed Program
+
+<div>
+<img src = "Screenshots\Executed Program.jpg" width = "500">
+</div>
+
+#### Initialzed Program
+
+<div>
+<img src = "Screenshots\Initialized Program.jpg" width = "500">
+</div>
+
 
 ### Necessary setup/execution steps: 
 nothing
@@ -22,13 +34,16 @@ nothing
 gitHub Template: https://github.com/3ahmnm-htlsbg/Unity2019114f1-2D-Template
 
 ### Project state: 
-50%
+100%
 
 ### Limitations: 
 none
 
 ### Lessons Learned: 
 - How to create a working GUI
+- How to assign and convert variable values
+- How to create public variables and functions
+- How to make objects uniteractable
 
 
 Copyright by Lhelbok
