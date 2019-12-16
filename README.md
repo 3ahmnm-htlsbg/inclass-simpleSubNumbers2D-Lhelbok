@@ -5,9 +5,9 @@ Exercise for simple substraction operation
 
 ### Development platform: 
 
--Windows 10
--Visual Studio 2019
--Unity 2019.1.14f1.1
+- Windows 10
+- Visual Studio 2019
+- Unity 2019.1.14f1.1
 
 ### Target platform: 
 WebGL 1920x720
