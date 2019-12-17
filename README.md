@@ -6,8 +6,9 @@ Exercise for simple substraction operation
 ### Development platform: 
 
 - Windows 10
-- Visual Studio 2019
+- Visual Studio 2019 Community
 - Unity 2019.1.14f1.1
+- Scripting Runtime Version: .NET 4.X, Mono
 
 ### Target platform: 
 WebGL 1920x720
