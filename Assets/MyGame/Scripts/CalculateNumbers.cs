@@ -28,7 +28,7 @@ public class CalculateNumbers : MonoBehaviour
         valueB.interactable = true;
         btn_calculate.interactable = true;
         btn_reset.interactable = false;
-        result.text = "0";
+        result.text = "Result";
     }
 
     private int ComputeNumbers()
